@@ -54,3 +54,10 @@ while True:
     # To handle exceptions
     except Exception as e:
         print("error")
+
+"""
+This code was taken from web-site above. 
+
+https://www.geeksforgeeks.org/python-script-to-monitor-website-changes/
+
+"""
